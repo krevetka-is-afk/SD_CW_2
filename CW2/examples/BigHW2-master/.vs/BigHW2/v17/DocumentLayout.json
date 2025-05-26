@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E0C126-AA43-4F90-9C65-1BDED5668A97}|ApiGateway\\ApiGateway.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\apigateway\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E0C126-AA43-4F90-9C65-1BDED5668A97}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\fileanalisysservice\\controllers\\fileanalisyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|solutionrelative:fileanalisysservice\\controllers\\fileanalisyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\filestoringservice\\controllers\\filestoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\controllers\\filestoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\fileanalisysservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|solutionrelative:fileanalisysservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\fileanalisysservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|solutionrelative:fileanalisysservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\fileanalisysservice\\migrations\\20250525183206_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|solutionrelative:fileanalisysservice\\migrations\\20250525183206_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\fileanalisysservice\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|solutionrelative:fileanalisysservice\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\fileanalisysservice\\models\\fileanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|solutionrelative:fileanalisysservice\\models\\fileanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\fileanalisysservice\\services\\ifileanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|solutionrelative:fileanalisysservice\\services\\ifileanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\fileanalisysservice\\services\\fileanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|solutionrelative:fileanalisysservice\\services\\fileanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\fileanalisysservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|solutionrelative:fileanalisysservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD10F222-B086-41AA-8685-985320A531F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{DD10F222-B086-41AA-8685-985320A531F1}|C:\\Users\\Nikita\\source\\repos\\BigHW2\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DD10F222-B086-41AA-8685-985320A531F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{DD10F222-B086-41AA-8685-985320A531F1}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\filestoringservice\\models\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\models\\filerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\filestoringservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E0C126-AA43-4F90-9C65-1BDED5668A97}|ApiGateway\\ApiGateway.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F3E0C126-AA43-4F90-9C65-1BDED5668A97}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\filestoringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E0C126-AA43-4F90-9C65-1BDED5668A97}|ApiGateway\\ApiGateway.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3E0C126-AA43-4F90-9C65-1BDED5668A97}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\fileanalisysservice\\fileanalisysservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|solutionrelative:fileanalisysservice\\fileanalisysservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\fileanalisysservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F432FE24-B48E-427D-BDA9-2C27E7BE9657}|FileAnalisysService\\FileAnalisysService.csproj|solutionrelative:fileanalisysservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\filestoringservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\filestoringservice\\migrations\\20250521164140_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\migrations\\20250521164140_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\filestoringservice\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|c:\\users\\nikita\\source\\repos\\bighw2\\filestoringservice\\filestoringservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72A2F199-B3AF-4732-959B-D4774F216202}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\filestoringservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 277,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FileAnalisysService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FileAnalisysService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:32:22.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250525183206_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Migrations\\20250525183206_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FileAnalisysService\\Migrations\\20250525183206_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Migrations\\20250525183206_InitialCreate.cs",
+              "RelativeToolTip": "FileAnalisysService\\Migrations\\20250525183206_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:32:06.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileAnalisysService.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\FileAnalisysService.csproj",
+              "RelativeDocumentMoniker": "FileAnalisysService\\FileAnalisysService.csproj",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\FileAnalisysService.csproj",
+              "RelativeToolTip": "FileAnalisysService\\FileAnalisysService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T21:42:53.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FileStoringService\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAywCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:42:06.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250521164140_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\Migrations\\20250521164140_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Migrations\\20250521164140_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\Migrations\\20250521164140_InitialCreate.cs",
+              "RelativeToolTip": "FileStoringService\\Migrations\\20250521164140_InitialCreate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:41:40.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileStoringService.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\FileStoringService.csproj",
+              "RelativeDocumentMoniker": "FileStoringService\\FileStoringService.csproj",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\FileStoringService.csproj",
+              "RelativeToolTip": "FileStoringService\\FileStoringService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T16:37:17.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:52:16.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\appsettings.json",
+              "RelativeDocumentMoniker": "FileStoringService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\appsettings.json",
+              "RelativeToolTip": "FileStoringService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T11:54:06.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\Program.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\Program.cs",
+              "RelativeToolTip": "FileStoringService\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:49:19.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-21T11:45:44.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\Dockerfile",
+              "RelativeDocumentMoniker": "FileStoringService\\Dockerfile",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\Dockerfile",
+              "RelativeToolTip": "FileStoringService\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-21T11:28:39.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Dockerfile",
+              "RelativeDocumentMoniker": "FileAnalisysService\\Dockerfile",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Dockerfile",
+              "RelativeToolTip": "FileAnalisysService\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-21T11:28:17.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\ApiGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiGateway\\Dockerfile",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\ApiGateway\\Dockerfile",
+              "RelativeToolTip": "ApiGateway\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-21T11:23:35.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\appsettings.json",
+              "RelativeDocumentMoniker": "FileAnalisysService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\appsettings.json",
+              "RelativeToolTip": "FileAnalisysService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T17:38:50.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileAnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Services\\FileAnalysisService.cs",
+              "RelativeDocumentMoniker": "FileAnalisysService\\Services\\FileAnalysisService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Services\\FileAnalysisService.cs",
+              "RelativeToolTip": "FileAnalisysService\\Services\\FileAnalysisService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:27:14.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFileAnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Services\\IFileAnalysisService.cs",
+              "RelativeDocumentMoniker": "FileAnalisysService\\Services\\IFileAnalysisService.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Services\\IFileAnalysisService.cs",
+              "RelativeToolTip": "FileAnalisysService\\Services\\IFileAnalysisService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:27:01.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Program.cs",
+              "RelativeDocumentMoniker": "FileAnalisysService\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Program.cs",
+              "RelativeToolTip": "FileAnalisysService\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:17:33.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FileAnalisysService\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FileAnalisysService\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:16:41.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\Models\\FileRecord.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Models\\FileRecord.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\Models\\FileRecord.cs",
+              "RelativeToolTip": "FileStoringService\\Models\\FileRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:30:11.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileAnalysisResult.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Models\\FileAnalysisResult.cs",
+              "RelativeDocumentMoniker": "FileAnalisysService\\Models\\FileAnalysisResult.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Models\\FileAnalysisResult.cs",
+              "RelativeToolTip": "FileAnalisysService\\Models\\FileAnalysisResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:30:04.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileAnalisysController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Controllers\\FileAnalisysController.cs",
+              "RelativeDocumentMoniker": "FileAnalisysService\\Controllers\\FileAnalisysController.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileAnalisysService\\Controllers\\FileAnalisysController.cs",
+              "RelativeToolTip": "FileAnalisysService\\Controllers\\FileAnalisysController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAgwIQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:56:54.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileStoringController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\Controllers\\FileStoringController.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Controllers\\FileStoringController.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\FileStoringService\\Controllers\\FileStoringController.cs",
+              "RelativeToolTip": "FileStoringService\\Controllers\\FileStoringController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:51:48.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GatewayController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\ApiGateway\\Controllers\\GatewayController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\GatewayController.cs",
+              "ToolTip": "C:\\Users\\Nikita\\source\\repos\\BigHW2\\ApiGateway\\Controllers\\GatewayController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\GatewayController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:46:19.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 96,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
