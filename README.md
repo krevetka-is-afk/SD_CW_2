@@ -21,7 +21,7 @@
 docker-compose up --build
 
 # Доступ к API
-http://localhost:5040/swagger
+http://localhost:5040/swagger/index.html
 ```
 
 ## API
