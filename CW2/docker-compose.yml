@@ -1,0 +1,75 @@
+version: '3.9'
+
+services:
+  api-gateway:
+    build:
+      context: .
+      dockerfile: ApiGateway/Dockerfile
+    container_name: api-gateway
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+      - ASPNETCORE_ENVIRONMENT=Development
+      - FILE_STORING_URL=http://file-storing-service:8080
+      - FILE_ANALYSIS_URL=http://file-analysis-service:8080
+    ports: ["5040:8080"]
+    depends_on:
+      - file-storing-service
+      - file-analysis-service
+
+  file-storing-service:
+    build:
+      context: .
+      dockerfile: FileStoringService/Dockerfile
+    container_name: file-storing-service
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+      - ConnectionStrings__DefaultConnection=Host=file-storing-db;Database=antiplagiarism;Username=app;Password=secret
+    volumes:
+      - files_data:/app/data/files
+    depends_on:
+      - file-storing-db
+    expose:
+      - "8080"
+
+  file-analysis-service:
+    build:
+      context: .
+      dockerfile: FileAnalysisService/Dockerfile
+    container_name: file-analysis-service
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+      - ConnectionStrings__DefaultConnection=Host=file-analysis-db;Database=antiplagiarism;Username=app;Password=secret
+      - FILE_STORING_URL=http://file-storing-service:8080
+    volumes:
+      - wordclouds:/app/data/wordclouds
+    depends_on:
+      - file-analysis-db
+      - file-storing-service
+    expose:
+      - "8080"
+
+  file-storing-db:
+    image: postgres:15
+    container_name: file-storing-db
+    environment:
+      - POSTGRES_USER=app
+      - POSTGRES_PASSWORD=secret
+      - POSTGRES_DB=antiplagiarism
+    volumes:
+      - file_storing_data:/var/lib/postgresql/data
+
+  file-analysis-db:
+    image: postgres:15
+    container_name: file-analysis-db
+    environment:
+      - POSTGRES_USER=app
+      - POSTGRES_PASSWORD=secret
+      - POSTGRES_DB=antiplagiarism
+    volumes:
+      - file_analysis_data:/var/lib/postgresql/data
+
+volumes:
+  file_storing_data:
+  file_analysis_data:
+  files_data:
+  wordclouds: 
